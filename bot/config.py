@@ -1,3 +1,3 @@
-BOT_TOKEN='6936878786:AAFkO8IQzNsfARGWRGbPf0lea00lE8anCcY'
+BOT_TOKEN='ммм ням ням ням вау как вкусно ммм да '
 
 admin_id = 851885100
